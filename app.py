@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 
-from image_processor import ImageProcessor
 from caption_generator import CaptionGenerator
 from storage_manager import StorageManager
 
